@@ -8,3 +8,12 @@
 
 **Link(s) to Work**
 1. [OpenEugene OpenBoard](https://github.com/OpenEugene/openboard)
+
+### Day 2: Wednesday, July 31, 2019
+
+**Today's Progress**: Got a few more commits in for openboard user service. I'm back at the place I left from yesterday when I was in the middle of the find users query. I wasn't able to proceed any further in the query because I don't know how users are being found. Are we finding them with their email addresses? Their roles? Any of the above? There were a few segways I took from the main code. I installed libsecret on my machine so I can store credentials with git. I also adjusted a keyboard shortcut setting in VS Code so it acts more like Sublime.
+
+**Thoughts** I noticed that Daved had built the go code (maybe with `go build`?), and that go.mod and go.sum were generated, which were in the Hello Service commits. I'll go ahead and run that command after I'm finished writing the queries.
+
+**Link(s) to Work**
+1. [OpenEugene OpenBoard](https://github.com/OpenEugene/openboard)

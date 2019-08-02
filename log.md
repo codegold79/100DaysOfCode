@@ -17,3 +17,12 @@
 
 **Link(s) to Work**
 1. [OpenEugene OpenBoard](https://github.com/OpenEugene/openboard)
+
+### Day 3: Thursday, August 1, 2019
+
+**Today's Progress**: Since I didn't know what information was going to be used to find users, I asked the other devs in the openboard channel in our Slack. Meanwhile, I made up a query using my best guess, given what was in the user.proto file. I also asked where I type `go build` because I can't remember how to do that. Tomorrow, I can work on the roles. I'll first need to make a migration for the tables before writing the queries. Once the roles table is put in, I'll be able to add JOIN to the find users query to find by roleIDs.
+
+**Thoughts** I introduced someone to #100DaysOfCode by explaining what it was.
+
+**Link(s) to Work**
+1. [OpenEugene OpenBoard](https://github.com/OpenEugene/openboard)

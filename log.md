@@ -42,3 +42,14 @@ I ran `go get` where my userdb.go file was, and it showed a lot of errors. I did
 
 **Link(s) to Work**
 1. [OpenEugene OpenBoard](https://github.com/OpenEugene/openboard)
+
+### Day 5: Saturday, August 3, 2019
+
+**Today's Progress**: Alex observed that our code was using Go dependencies pre-Go 1.11. Now that Go uses Modules, maybe we can switch. Daved said he'll be back in town on Monda and would be able to help with the modules question then. 
+
+Meanwhile, I ran `go get` and there were a lot of errors I had to fix. My latest commit was making those fixes.
+
+**Thoughts** Alex showed me his personal website on GitHub and it looked really professional, skillfully made, and sleek. I was really impressed. He said all he used were static HTML files. Of course, this mean that I want to make a website. I'm not sure what to put in it, but that might be something I do for Day 6.
+
+**Link(s) to Work**
+1. [OpenEugene OpenBoard](https://github.com/OpenEugene/openboard)

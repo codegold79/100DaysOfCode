@@ -53,3 +53,12 @@ Meanwhile, I ran `go get` and there were a lot of errors I had to fix. My latest
 
 **Link(s) to Work**
 1. [OpenEugene OpenBoard](https://github.com/OpenEugene/openboard)
+
+### Day 6: Sunday, August 4, 2019
+
+**Today's Progress**: I started a static webpage on GitHub with some HTML, CSS, and a lot of time trying to figure out GIMP. It looks terrible, but I have some ideas as to how to fix it. I have my code on a branch that hasn't been merged yet. I'll merge to master when I'm ready to show it. Thankfully, because it's a static site, it's easy to test.
+
+**Thoughts** It's tough to have to consider how to make a page look nice. I'm glad I'm a backend dev.
+
+**Link(s) to Work**
+1. [Codegold Personal Webpage](https://codegold79.github.io/)

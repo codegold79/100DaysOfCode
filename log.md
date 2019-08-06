@@ -62,3 +62,12 @@ Meanwhile, I ran `go get` and there were a lot of errors I had to fix. My latest
 
 **Link(s) to Work**
 1. [Codegold Personal Webpage](https://codegold79.github.io/)
+
+### Day 7: Monday, August 5, 2019
+
+**Today's Progress**: Made a lot of formatting changes to the site, but it still looks terrible. I think I might need help from someone artistic as well as maybe follow a tutorial to figure out how to make this page mobile responsive. Front end development is hard. Alex (@appins) completely configured my laptop to run i3. It looks and runs amazingly. I still have a few tweaks to make like the light-locker.
+
+**Thoughts** Thanks to Alex, i3 is so much less daunting. I can start, close, and quit apps, open them with horizontal or vertical split, log out of i3, open a terminal...Feels pretty good.
+
+**Link(s) to Work**
+1. [Codegold Personal Webpage](https://codegold79.github.io/)

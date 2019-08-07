@@ -71,3 +71,12 @@ Meanwhile, I ran `go get` and there were a lot of errors I had to fix. My latest
 
 **Link(s) to Work**
 1. [Codegold Personal Webpage](https://codegold79.github.io/)
+
+### Day 8: Tuesday, August 6, 2019
+
+**Today's Progress**: Greg suggested I use grid instead of floating divs to make my page more responsive. After adding some more pictures and making some more adjustments, I pushed changes to master. After all, how can I get helpful feedback unless someone sees it? I did all this while using i3--pretty nifty! I printed out the cheat sheet which was helpful. I'm doing more and more from the command line like resizing images. I even used `>>` in bash to append the output of `cat` from one file to another. I learned that trick from a Linux systems admin at GohperCon 2019.
+
+**Thoughts** I love that I'm becoming more comfortable with the command line. I am so appreciative of the people around me who are there to help and make my projects more fun and less stressful.
+
+**Link(s) to Work**
+1. [Codegold Personal Webpage](https://codegold79.github.io/)

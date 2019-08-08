@@ -80,3 +80,12 @@ Meanwhile, I ran `go get` and there were a lot of errors I had to fix. My latest
 
 **Link(s) to Work**
 1. [Codegold Personal Webpage](https://codegold79.github.io/)
+
+### Day 9: Wednesday, August 7, 2019
+
+**Today's Progress**: Made the text readable and adjusted the colors. Final re-alignment. I think I'm done with my webpage for the time being. 
+
+**Thoughts** None
+
+**Link(s) to Work**
+1. [Codegold Personal Webpage](https://codegold79.github.io/)

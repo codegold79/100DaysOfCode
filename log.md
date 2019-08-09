@@ -93,13 +93,9 @@ Meanwhile, I ran `go get` and there were a lot of errors I had to fix. My latest
 
 ### Day 10: Thursday, August 8, 2019
 
-**Today's Progress**: Now that I'm in i3wm, my touchpad two-finger click didn't work so I followed instructions at https://cravencode.com/post/essentials/enable-tap-to-click-in-i3wm/ to get that working again. Fun thing is, it also told me how to get 3 finger click as middle click to work, so that's a plus. I also found the settings Alex put in place for switching keyboard layout languages and i3lock screen. For the latter, it was interferring with my vim, so I set the language toggle to something different. As for the latter, there was a blank screen, so I put my own wallpaper up. Of course, the wallpaper was the not the proper dimension, so I looked up how to resize image with ImageMagick from the command line.
+**Today's Progress**: Now that I'm using i3wm, my touchpad two-finger click didn't work so I followed instructions at https://cravencode.com/post/essentials/enable-tap-to-click-in-i3wm/ to get that working again. Fun thing is, it also told me how to get 3 finger click as middle click to work, so that's a plus. I also found the settings Alex put in place for switching keyboard layout languages and i3lock screen. For the latter, it was interfering with my vim, so I set the language toggle to something different. As for the latter, there was a blank screen, so I put my own wallpaper up. Of course, the wallpaper was the not the proper dimension, so I looked up how to resize image with ImageMagick from the command line.
 
 **Thoughts** My work today started with Alex's advice that I install the repo light-locker. It's a bit confusing because I already have light-locker, but there are other repos with the same name, but different author. Alex's suggestions for continuing configuration on the config he gave me was, 
-> you need light-locker from the repos
-> And haikarainen/light and Stark/siji
-> Light locker is for locking your computer when you close your lid
-> Light is for the backlight
-> And siji is an icon font
+> you need light-locker from the repos. And haikarainen/light and Stark/siji. Light locker is for locking your computer when you close your lid. Light is for the backlight. And siji is an icon font.
 
 **Link(s) to Work**

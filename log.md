@@ -99,3 +99,13 @@ Meanwhile, I ran `go get` and there were a lot of errors I had to fix. My latest
 > you need light-locker from the repos. And haikarainen/light and Stark/siji. Light locker is for locking your computer when you close your lid. Light is for the backlight. And siji is an icon font.
 
 **Link(s) to Work**
+
+
+### Day 11: Friday, August 9, 2019
+
+**Today's Progress**: The goal was to get the function keys to be able to adjust the backlight levels on my screen. I followed the instructions from (FOSS Fix Brightness Control)[https://itsfoss.com/fix-brightness-ubuntu-1310/] but it didn't work. I commented out `bindsym XF86MonBrightnessUp exec light -A 5` because in the CLI, `light -A 5` doesn't change the setting (displayed when typing just `light`). I followed other instructions such as the one (here)[https://askubuntu.com/questions/47364/laptop-brightness-problem-on-toshiba-portege-r705-p35], but to no avail. 
+
+**Thoughts** I guess my 100 days of code can be spent configuring Ubuntu as there is so much that can be done.
+
+**Link(s) to Work**
+

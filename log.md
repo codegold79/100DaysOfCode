@@ -109,3 +109,10 @@ Meanwhile, I ran `go get` and there were a lot of errors I had to fix. My latest
 
 **Link(s) to Work**
 
+### Day 12: Saturday, August 10, 2019
+
+**Today's Progress**: I read through chapter 1 again of The Go Programming Language by Donovan and Kernighan, as well as the first two chapters of Learn Linux in a Month of Lunches by Ovadia.
+
+**Thoughts** The reads were more fun as the words made much more sense, now that I know the basics.
+
+**Link(s) to Work**

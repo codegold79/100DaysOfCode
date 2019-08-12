@@ -116,3 +116,11 @@ Meanwhile, I ran `go get` and there were a lot of errors I had to fix. My latest
 **Thoughts** The reads were more fun as the words made much more sense, now that I know the basics.
 
 **Link(s) to Work**
+
+### Day 13: Sunday, August 11, 2019
+
+**Today's Progress**: I Read through ch7 of Ovadia's Linux book. Now I understand the difference between a codec and a driver, and what a kernal does. So, I was able to find out today, using lspci, that my audio, whose controls aren't working in i3, use the snd_hda_intel driver. I tried to find what driver controls the screen, but there didn't seem to be one. Maybe it's controlled by something else.
+
+**Thoughts** I read more than an hour today, given how interesting and useful the topics were.
+
+**Link(s) to Work**

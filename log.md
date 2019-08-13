@@ -124,3 +124,11 @@ Meanwhile, I ran `go get` and there were a lot of errors I had to fix. My latest
 **Thoughts** I read more than an hour today, given how interesting and useful the topics were.
 
 **Link(s) to Work**
+
+### Day 14: Monday, August 12, 2019
+
+**Today's Progress** I am in the middle of ch14 in Ovadia's Linux book now where it is describing the Linux directory structure. I've only known that certain commands, in the form of binaries were in /bin, but never new what /sbin held, and other directories. Very glad to get the rest of the picture.
+
+**Thoughts** Today was very busy, an we need to take a nap before heading out to catch a flight. Thank goodness reading a book counts as coding. If it weren't for being able to read on the subway or on the bus, I don't think I could have made any progress in this 100DayOfCode challenge.
+
+**Link(s) to Work**

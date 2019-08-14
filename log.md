@@ -132,3 +132,11 @@ Meanwhile, I ran `go get` and there were a lot of errors I had to fix. My latest
 **Thoughts** Today was very busy, an we need to take a nap before heading out to catch a flight. Thank goodness reading a book counts as coding. If it weren't for being able to read on the subway or on the bus, I don't think I could have made any progress in this 100DayOfCode challenge.
 
 **Link(s) to Work**
+
+### Day 15: Tuesday, August 13, 2019
+
+**Today's Progress** Made it to ch20  of Learn Linux in a Month of Lunches. I'm continuing to learn useful commands and best practices regarding upgrading, security, encryption, transferring files, and so forth.
+
+**Thoughts** 
+
+**Link(s) to Work**

@@ -140,3 +140,12 @@ Meanwhile, I ran `go get` and there were a lot of errors I had to fix. My latest
 **Thoughts** 
 
 **Link(s) to Work**
+
+### Day 16: Wednesday, August 14, 2019
+
+**Today's Progress** I finished Ovadia's book earlier than I thought. It only had 23 chapters when I expected between 28-31. Ch23 mentioned Git, making me think I should read a Git book. I started Ry's Git Tutorial, available for free at https://www.amazon.com/Rys-Git-Tutorial-Ryan-Hodson-ebook/dp/B00QFIA5OC. I just finished ch4.
+
+**Thoughts** I should probably think about what I want to do in terms of coding next, instead of just reading books.
+
+**Link(s) to Work** https://github.com/codegold79/ry-git-tutorial.git
+

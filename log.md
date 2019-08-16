@@ -149,3 +149,11 @@ Meanwhile, I ran `go get` and there were a lot of errors I had to fix. My latest
 
 **Link(s) to Work** https://github.com/codegold79/ry-git-tutorial.git
 
+### Day 17: Thursday, August 15, 2019
+
+**Today's Progress** I was itching to get some Go code written and I thought I'd put my energies to writing a parser for a huge log file (over 1 gb) that can parse out certain text using the regexp package and store the info into a map. So far, I was able to use bufio to read a tiny version of the log file, match substrings from each line, and store the strings into a map that counts how many times the matched string showed up in the log.
+
+**Thoughts** The part that I don't even know how to get started on is how to break up my main function, which has all the code, into smaller functions that do small things. I guess that will come later.
+
+**Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git
+

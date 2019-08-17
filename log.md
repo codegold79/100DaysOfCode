@@ -157,3 +157,11 @@ Meanwhile, I ran `go get` and there were a lot of errors I had to fix. My latest
 
 **Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git
 
+### Day 18: Friday, August 16, 2019
+
+**Today's Progress** I copied over lines from the actual laravel.log so I can work with real data. I set up the regular expressions such that three important lines of text would match. Then, I made a switch statement with the three different matches being each a case. I wrote out skeleton code for which slices they should be creating and/or populating, if any.
+
+**Thoughts** I'm not sure when I'll need to use a pointer, but it seems if three different functions will need to refer to the same slices, then maybe those might need to be passed pointers? I'll just go with that for now.
+
+**Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git
+

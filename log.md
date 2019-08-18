@@ -165,3 +165,10 @@ Meanwhile, I ran `go get` and there were a lot of errors I had to fix. My latest
 
 **Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git
 
+### Day 19: Saturday, August 17, 2019
+
+**Today's Progress** I did some studying on slices and arrays and it turns out I can't use them to store times, counts, and strings all in one place. I'll need to use three different maps instead. Then, for the imageSpeeds information, I'll need to make another map that holds an array of four items. These items all have to be the same type, so I'll try to make them all integers. I had to research how Go processes time and it seems the "time" package has what I need. The most unusual part of that package is how I use January 2, 2006 to make the time formats.
+
+**Thoughts** I think I'll try to do what Daved did in openBoard HelloService tutorial regarding setting the maps. I'll just save information in separate functions without passing the maps as arguments. They'll exist outside the functions and so can be saved directly, since they all have access to it.
+
+**Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git

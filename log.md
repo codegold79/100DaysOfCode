@@ -172,3 +172,17 @@ Meanwhile, I ran `go get` and there were a lot of errors I had to fix. My latest
 **Thoughts** I think I'll try to do what Daved did in openBoard HelloService tutorial regarding setting the maps. I'll just save information in separate functions without passing the maps as arguments. They'll exist outside the functions and so can be saved directly, since they all have access to it.
 
 **Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git
+
+### Day 20: Sunday, August 18, 2019
+
+**Today's Progress** I fleshed out most of the remaining functions. What is left is the last function, the image processing time summary, because I can't seem to change the values in the array in the map. The error I get is that it cannot assign to the array item. The strange thing is, I can print the value of the array item, but I can't change it. This is what's causing the error: 
+```
+func main() {
+	mapp := map[string][4]int{"one": {1, 2, 3, 4}}
+	mapp["one"][0]++
+}
+```
+
+**Thoughts** Hopefully, I'm missing something small in the syntax. Otherwise, what is the use of maps if I can't change the values in them?
+
+**Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git

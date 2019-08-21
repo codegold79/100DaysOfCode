@@ -173,7 +173,7 @@ Meanwhile, I ran `go get` and there were a lot of errors I had to fix. My latest
 
 **Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git
 
-### Day 20: Sunday, August 18, 2019
+### Day 20: Monday, August 19, 2019
 
 **Today's Progress** I fleshed out most of the remaining functions. What is left is the last function, the image processing time summary, because I can't seem to change the values in the array in the map. The error I get is that it cannot assign to the array item. The strange thing is, I can print the value of the array item, but I can't change it. This is what's causing the error: 
 ```
@@ -184,5 +184,13 @@ func main() {
 ```
 
 **Thoughts** Hopefully, I'm missing something small in the syntax. Otherwise, what is the use of maps if I can't change the values in them?
+
+**Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git
+
+### Day 21: Tuesday, August 20, 2019
+
+**Today's Progress** Two devs showed how I could increment array items in a map in #Golang. Alex treated the arrays as pointers and Daved retrieved the values, saved them to a variable, changed it, and saved it in the map. I had some panics in the code as I didn't anticipate some of the log entries to be what they were. But, I have my first working version of the program now.
+
+**Thoughts** I didn't think I missed a day, but I realize I didn't have a Twitter entry for Sunday, August 18. I swear I thought I had done coding that day, but I guess not. I heard from Greg that if it wasn't tweeted, it didn't happen. Oh well.
 
 **Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git

@@ -194,3 +194,11 @@ func main() {
 **Thoughts** I didn't think I missed a day, but I realize I didn't have a Twitter entry for Sunday, August 18. I swear I thought I had done coding that day, but I guess not. I heard from Greg that if it wasn't tweeted, it didn't happen. Oh well.
 
 **Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git
+
+### Day 22: Tuesday, August 21, 2019
+
+**Today's Progress** I formatted the map using Sprintf, including a couple calculations. I used WriteString to newly created file that would sever as a CSV report. I added a few issues to work on in GitHub.
+
+**Thoughts** After spending this week writing this code, I don't think it's really that helpful. Before I spend a lot of work making this production ready, I might demonstrate it to Nik and see if he finds it to be useful.
+
+**Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git

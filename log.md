@@ -202,3 +202,11 @@ func main() {
 **Thoughts** After spending this week writing this code, I don't think it's really that helpful. Before I spend a lot of work making this production ready, I might demonstrate it to Nik and see if he finds it to be useful.
 
 **Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git
+
+### Day 23: Tuesday, August 22, 2019
+
+**Today's Progress** I added incomplete counts that weren't counted previously due to missing jobID to the idx map. I found out how to cross compile to a windows/amd64 executable. I think I'm done with this project for now.
+
+**Thoughts** There are a couple projects I can work on next. I can work on the post service in openboard. The other one is working on learning Kubernetes since companies that are looking for Go devs seem to also want people who know K8. If I run out of things to do, I can go back to going through Ry's Git Tutorial. There certainly is plenty to do.
+
+**Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git

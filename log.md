@@ -203,10 +203,18 @@ func main() {
 
 **Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git
 
-### Day 23: Tuesday, August 22, 2019
+### Day 23: Wednesday, August 22, 2019
 
 **Today's Progress** I added incomplete counts that weren't counted previously due to missing jobID to the idx map. I found out how to cross compile to a windows/amd64 executable. I think I'm done with this project for now.
 
 **Thoughts** There are a couple projects I can work on next. I can work on the post service in openboard. The other one is working on learning Kubernetes since companies that are looking for Go devs seem to also want people who know K8. If I run out of things to do, I can go back to going through Ry's Git Tutorial. There certainly is plenty to do.
 
 **Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git
+
+### Day 24: Thursday, August 23, 2019
+
+**Today's Progress** I switched back to the openboard project and submitted five commits on the back/postsrv-build-the-post-service branch. I followed the helosvc tutorial very closely.
+
+**Thoughts** My coworker tested out the laravel.log parser and found an error. I'll have to go back and debug it. Daved would not be pleased I had such poor error handling.
+
+**Link(s) to Work** https://github.com/OpenEugene/openboard.git, https://github.com/OpenEugene/openboard/pull/49/commits

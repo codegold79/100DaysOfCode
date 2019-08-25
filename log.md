@@ -195,7 +195,7 @@ func main() {
 
 **Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git
 
-### Day 22: Tuesday, August 21, 2019
+### Day 22: Wednesday, August 21, 2019
 
 **Today's Progress** I formatted the map using Sprintf, including a couple calculations. I used WriteString to newly created file that would sever as a CSV report. I added a few issues to work on in GitHub.
 
@@ -203,7 +203,7 @@ func main() {
 
 **Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git
 
-### Day 23: Wednesday, August 22, 2019
+### Day 23: Thursday, August 22, 2019
 
 **Today's Progress** I added incomplete counts that weren't counted previously due to missing jobID to the idx map. I found out how to cross compile to a windows/amd64 executable. I think I'm done with this project for now.
 
@@ -211,10 +211,18 @@ func main() {
 
 **Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git
 
-### Day 24: Thursday, August 23, 2019
+### Day 24: Friday, August 23, 2019
 
 **Today's Progress** I switched back to the openboard project and submitted five commits on the back/postsrv-build-the-post-service branch. I followed the helosvc tutorial very closely.
 
 **Thoughts** My coworker tested out the laravel.log parser and found an error. I'll have to go back and debug it. Daved would not be pleased I had such poor error handling.
+
+**Link(s) to Work** https://github.com/OpenEugene/openboard.git, https://github.com/OpenEugene/openboard/pull/49/commits
+
+### Day 25: Saturday, August 24, 2019
+
+**Today's Progress** I submitted two more commits on the back/postsrv-build-the-post-service branch. Today I did work on sql migrations and having the sql migration interfaces implement postsvc.
+
+**Thoughts** I'm realizing I should go back and redo the usersvc. I'm looking to it for references to see what I should do for postsvc, but some of it is incorrect. For example, not all columns in the user table need to be NOT NULL. I'll go back and fix those after postsvc.
 
 **Link(s) to Work** https://github.com/OpenEugene/openboard.git, https://github.com/OpenEugene/openboard/pull/49/commits

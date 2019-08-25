@@ -226,3 +226,17 @@ func main() {
 **Thoughts** I'm realizing I should go back and redo the usersvc. I'm looking to it for references to see what I should do for postsvc, but some of it is incorrect. For example, not all columns in the user table need to be NOT NULL. I'll go back and fix those after postsvc.
 
 **Link(s) to Work** https://github.com/OpenEugene/openboard.git, https://github.com/OpenEugene/openboard/pull/49/commits
+
+### Day 26: Sunday, August 25, 2019
+
+**Today's Progress** I submitted one commit to the open PR to wire the postsvc to the http and grpc servers. I started to work on another commit for the db queries, which takes the longest. I won't push that commit til I'm done. A few issues came up.
+
+I wasn't sure how to bind parameters for when we are searching for a word that matches, so I ended preparing a statement that had `like '%?%' in it. I spent a short time looking it up, but I couldn't find it easily. I'll wait for the error message to help with my search for the fix. 
+
+I'll also need to go back and set up the search for multiple keywords, not just one keyword. 
+
+Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is called, part of the response to that request is a bunch of timestamps. Yet, there are no timestamps returned in the response by the helloqry. I wonder if that's on purpose.
+
+**Thoughts** According to a comment made in Go Time podcast, you should be making a test file for every file you write. I haven't written a single test in go yet. I suppose I should get on that...later.
+
+**Link(s) to Work** https://github.com/OpenEugene/openboard.git, https://github.com/OpenEugene/openboard/pull/49/commits

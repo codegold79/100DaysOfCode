@@ -223,6 +223,6 @@ func main() {
 
 **Today's Progress** I submitted two more commits on the back/postsrv-build-the-post-service branch. Today I did work on sql migrations and having the sql migration interfaces implement postsvc.
 
-**Thoughts** I'm realizing I should go back and redo the usersvc. I'm looking to it for references to see what I should do for postsvc, but some of it is incorrect. For example, not all columns in the user table need to be NOT NULL. I'll go back and fix those after postsvc.
+**Thoughts** I'm realizing I should go back and redo the usersvc. I'm looking to it for references to see what I should do for postsvc, but some of it is incorrect. For example, not all columns in the user table need to be NOT NULL. I'll go back and fix those after postsvc. On another note, I listened to three episodes (95, 94, 93, 92) of the Go Times podcast. Now I'm curious about using Buffalo for rapid web development. It'd be nice if I could make a React.js website using Buffalo and Go.
 
 **Link(s) to Work** https://github.com/OpenEugene/openboard.git, https://github.com/OpenEugene/openboard/pull/49/commits

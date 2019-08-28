@@ -254,3 +254,11 @@ Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is c
 **Thoughts** According to a comment made in Go Time podcast, you should be making a test file for every file you write. I haven't written a single test in go yet. I suppose I should get on that...later.
 
 **Link(s) to Work** https://github.com/OpenEugene/openboard.git, https://github.com/OpenEugene/openboard/pull/49/commits
+
+### Day 27: Tuesday, August 27, 2019
+
+**Today's Progress** I submitted the last commit for postsvc queries. It only took 30 minutes to complete. For the rest of the time, I watched videos at https://kubernetes.academy, shared by an employee at VM Ware in the Women Who Go Slack. 
+
+**Thoughts** There are a lot of errors in my postsvc code because I don't have the post.proto and the generated proto buffer files. I don't know how to get those changes into my local branch until those branches are merged to mater. Maybe what I should try to do next time is try to get multiple branches merged into a local branch, so I can try to build and run the code. It'd be great to try out what's been written so far.
+ 
+**Link(s) to Work** https://github.com/OpenEugene/openboard.git, https://github.com/OpenEugene/openboard/pull/49/commits

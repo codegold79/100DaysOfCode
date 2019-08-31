@@ -262,3 +262,11 @@ Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is c
 **Thoughts** There are a lot of errors in my postsvc code because I don't have the post.proto and the generated proto buffer files. I don't know how to get those changes into my local branch until those branches are merged to mater. Maybe what I should try to do next time is try to get multiple branches merged into a local branch, so I can try to build and run the code. It'd be great to try out what's been written so far.
  
 **Link(s) to Work** https://github.com/OpenEugene/openboard.git, https://github.com/OpenEugene/openboard/pull/49/commits
+
+### Day 28: Tuesday, August 30, 2019
+
+**Today's Progress** I continued Ry's Git Tutorial and practiced more git commands. I didn't know until today that a merge commit is a merge of 3 commits and that the most recent commit still points to the two parent commits.
+
+**Thoughts** It was a very busy week, so I had to skip a couple of days in the challenge. The upcoming week is a lot less busy.
+ 
+**Link(s) to Work** https://github.com/codegold79/ry-git-tutorial

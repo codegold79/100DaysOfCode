@@ -270,3 +270,11 @@ Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is c
 **Thoughts** It was a very busy week, so I had to skip a couple of days in the challenge. The upcoming week is a lot less busy.
  
 **Link(s) to Work** https://github.com/codegold79/ry-git-tutorial
+
+### Day 29: Tuesday, August 31, 2019
+
+**Today's Progress** I read about consensus protocols that are used in blockchain technology. Bitcoin uses Proof of Work, but it's very energy intensive. It's also slow. Another consensus protocol used (by Ethereum's Casper) is Proof of State. But, the one I spent the most time learning about was Raft, a protocol that was made with ease of understanding in mind. The most useful graphic I saw was at http://thesecretlivesofdata.com/. I also liked the talk done by Diego Ongaro (the person who wrote the paper on Raft) which can be seen here: https://www.youtube.com/watch?v=LAqyTyNUYSY
+
+**Thoughts** It's crazy how little I know about the problems out there and what people are doing to solve them.
+ 
+**Link(s) to Work** 

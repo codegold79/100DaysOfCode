@@ -263,7 +263,7 @@ Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is c
  
 **Link(s) to Work** https://github.com/OpenEugene/openboard.git, https://github.com/OpenEugene/openboard/pull/49/commits
 
-### Day 28: Tuesday, August 30, 2019
+### Day 28: Friday, August 30, 2019
 
 **Today's Progress** I continued Ry's Git Tutorial and practiced more git commands. I didn't know until today that a merge commit is a merge of 3 commits and that the most recent commit still points to the two parent commits.
 
@@ -271,10 +271,18 @@ Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is c
  
 **Link(s) to Work** https://github.com/codegold79/ry-git-tutorial
 
-### Day 29: Tuesday, August 31, 2019
+### Day 29: Saturday, August 31, 2019
 
 **Today's Progress** I read about consensus protocols that are used in blockchain technology. Bitcoin uses Proof of Work, but it's very energy intensive. It's also slow. Another consensus protocol used (by Ethereum's Casper) is Proof of State. But, the one I spent the most time learning about was Raft, a protocol that was made with ease of understanding in mind. The most useful graphic I saw was at http://thesecretlivesofdata.com/. I also liked the talk done by Diego Ongaro (the person who wrote the paper on Raft) which can be seen here: https://www.youtube.com/watch?v=LAqyTyNUYSY
 
 **Thoughts** It's crazy how little I know about the problems out there and what people are doing to solve them.
+ 
+**Link(s) to Work** 
+
+### Day 30: Sunday, Septempber 1, 2019
+
+**Today's Progress** Today, I finally got to starting to learn about Docker. I went through the docs to install Docker on my computer, downloaded and ran the hello-world container, downloaded and ran busy-box (a non-latest version), and looked around in the container. I incidentally found out that Ubuntu root user is locked down and you can't ever log in as root.
+
+**Thoughts** I've got a long way to go learning about Docker, and it will certainly have to include learning about Kubernetes.
  
 **Link(s) to Work** 

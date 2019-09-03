@@ -279,10 +279,18 @@ Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is c
  
 **Link(s) to Work** 
 
-### Day 30: Sunday, Septempber 1, 2019
+### Day 30: Sunday, September 1, 2019
 
 **Today's Progress** Today, I finally got to starting to learn about Docker. I went through the docs to install Docker on my computer, downloaded and ran the hello-world container, downloaded and ran busy-box (a non-latest version), and looked around in the container. I incidentally found out that Ubuntu root user is locked down and you can't ever log in as root.
 
 **Thoughts** I've got a long way to go learning about Docker, and it will certainly have to include learning about Kubernetes.
+ 
+**Link(s) to Work** 
+
+### Day 31: Monday, September 2, 2019
+
+**Today's Progress** I learned more about Docker, how to commit changes to image layers, how to build it from an existing image, or build from scratch. I also learned a few commands that can be used in the docker file, and how to save images to docker hub public repository.
+
+**Thoughts** 
  
 **Link(s) to Work** 

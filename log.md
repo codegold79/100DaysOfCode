@@ -294,3 +294,11 @@ Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is c
 **Thoughts** 
  
 **Link(s) to Work** 
+
+### Day 32: Tuesday, September 3, 2019
+
+**Today's Progress** I worked more on my laravel.log parser. I fixed a division by zero bug, made the output more readable using the text/language and text/message packages, and made the time durations more precise by converting them to float32 (previously integers).
+
+**Thoughts** Next step in this project is to edit the report live, while the log is being written.
+ 
+**Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git

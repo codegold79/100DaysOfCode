@@ -302,3 +302,11 @@ Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is c
 **Thoughts** Next step in this project is to edit the report live, while the log is being written.
  
 **Link(s) to Work** https://github.com/codegold79/laravel-log-parser.git
+
+### Day 33: Wednesday, September 4, 2019
+
+**Today's Progress** I started another repository where I will be putting Go practice code. So far, I've created a webpage scraper that scrapes the contents of one webpage using *net/http*. I parsed the data with the help of *golang.org/x/net/html* and *string*, and saved the data to a file using *os*. 
+
+**Thoughts** I could have used a bigger libary to parse the website data, but it was simple enough, I was willing to go through the process of figuring out how to parse it myself.
+ 
+**Link(s) to Work** https://github.com/codegold79/bael

@@ -310,3 +310,11 @@ Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is c
 **Thoughts** I could have used a bigger libary to parse the website data, but it was simple enough, I was willing to go through the process of figuring out how to parse it myself.
  
 **Link(s) to Work** https://github.com/codegold79/bael
+
+### Day 34: Thursday, September 5, 2019
+
+**Today's Progress** It wasn't the easiest thing to do, but I finally set up my Google Cloud Platform account, got authenticated from the CLI (including my app), figured out how to save and edit entries in the Firestore database, copied my work from yesterday to a Cloud Function, got it to run, set up a cloud repository, pushed my code up to there, deployed from the repo, and decided my entire project needs to be changed up. So, I'll re-write everything tomorrow. Instead of scraping one page, I need to scrap multiple pages for the same data because it's very difficult to figure out which routes the service alerts come from. At least if I go to a route's page, I know which route to assign the alerts.
+
+**Thoughts** I know that global variables are terrible, but how about global structs? I'll look at some code from the veterans and see what they're doing.
+ 
+**Link(s) to Work** https://source.cloud.google.com/ltd-sched-mon/ltd-sched-mon

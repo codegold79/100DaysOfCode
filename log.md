@@ -318,3 +318,11 @@ Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is c
 **Thoughts** I know that global variables are terrible, but how about global structs? I'll look at some code from the veterans and see what they're doing.
  
 **Link(s) to Work** https://source.cloud.google.com/ltd-sched-mon/ltd-sched-mon
+
+### Day 35: Friday, September 6, 2019
+
+**Today's Progress** I'm finding that I'm still not grasping the concepts behind maps and points completely yet. So I created yet another repository on GitHub that is just for Sandbox play tests. It's basically my own Go Playground, except all my code is collected in a repo. Some findings for today were (1) map keys cannot just be anything. So far, I know map keys can be strings and integers. They cannot be structs, (2) Interfaces can have at least one of their items be another interface. In that case, the outer interface takes all the methods of the inner interface.
+
+**Thoughts** This service alerts project is going to take a lot longer than I initially thought.
+ 
+**Link(s) to Work** https://github.com/codegold79/cai

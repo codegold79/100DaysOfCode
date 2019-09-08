@@ -326,3 +326,13 @@ Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is c
 **Thoughts** This service alerts project is going to take a lot longer than I initially thought.
  
 **Link(s) to Work** https://github.com/codegold79/cai
+
+### Day 36: Saturday, September 7, 2019
+
+**Today's Progress** I continued playing around in my sandbox repo and was able to modify variables with pointers to slices of structs. I changed the way my website scraper worked. I gave in and used goquery instead of golang.org/x/net/http. It's so much easier to be able to select elements on a page. I also changed how I save alerts. Previously, I used maps, but now, I use slices.
+
+**Thoughts** 
+ 
+**Link(s) to Work** 
+* https://github.com/codegold79/cai
+* https://github.com/codegold79/bael

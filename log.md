@@ -336,3 +336,13 @@ Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is c
 **Link(s) to Work** 
 * https://github.com/codegold79/cai
 * https://github.com/codegold79/bael
+
+### Day 37: Sunday, September 8, 2019
+
+**Today's Progress** I learned about more strings package functions like Join, Split, Replace, and ReplaceAll. I used these to try to clean up the text that goquery sent back, but they didn't work as well as I wanted. I endedup using the regexp package to remove excessive white space.
+
+**Thoughts** Next will be saving the alerts to Firestore.
+ 
+**Link(s) to Work** 
+* https://github.com/codegold79/bael
+* https://github.com/codegold79/cai

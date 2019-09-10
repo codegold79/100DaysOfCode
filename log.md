@@ -346,3 +346,12 @@ Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is c
 **Link(s) to Work** 
 * https://github.com/codegold79/bael
 * https://github.com/codegold79/cai
+
+### Day 38: Monday, September 9, 2019
+
+**Today's Progress** I wrote the next function to save the alerts to Firestore. While working on that, I learned about the empty interface and how it can represent other types, as long as they don't implement methods. That's an interesting way to go about being more flexible about types.
+
+**Thoughts** I haven't finished testing the code, so hopefully it's not too buggy.
+ 
+**Link(s) to Work** 
+* https://github.com/codegold79/bael

@@ -355,3 +355,12 @@ Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is c
  
 **Link(s) to Work** 
 * https://github.com/codegold79/bael
+
+### Day 39: Tuesday, September 10, 2019
+
+**Today's Progress** Daved looked through my pull requests through Openboard and taught me new concepts. Commit messages should start with a capital letter and not end in punctuation. They should be a certain length. According to https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html, the messages should be less than 50 characters for the summary and the description should have at most 72 characters per line. He also taught me that `go generate` in the mysql folder will generate the migration file. Building and executing the code from cmd/openbsrv will generate the go.mod and go.sum files. He explained how go.mod/sum files are packaged with libraries in directories that are to be exported, either externally or internally. Also, go files inside directories called "internal" are not to be exported externally. Daved made me aware of having different versions of dependencies for different projects, and this happens by temporarily setting the go path to the project directory when running the project. For next time, he said we can talk about my last question, which was, how to I send requests to the user and post services I created and check that they're sending back the intended messages. He hinted that we will be writing code to send the requests (as opposed to using something like Postman).
+
+**Thoughts** I'm so fortunate to have been introduced to Daved who inspired me to learn Go and now he's spending the time to teach me how to be a developer at a higher level. It's up to me now to work hard on my Go studies and projects.
+ 
+**Link(s) to Work** 
+* https://github.com/OpenEugene/openboard/pulls

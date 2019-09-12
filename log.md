@@ -364,3 +364,12 @@ Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is c
  
 **Link(s) to Work** 
 * https://github.com/OpenEugene/openboard/pulls
+
+### Day 40: Wednesday, September 11, 2019
+
+**Today's Progress** I followed the protobuffer tutorial for go, but ended up getting a bunch of errors when I ran protoc. I tried to build without running protoc, but I encountered issues there too, where the user.proto variables did not get carried over to the go code. I was able to change the database fields in a table, though, and generate a migration file.
+
+**Thoughts** I'll have to figure out protobuf tomorrow.
+ 
+**Link(s) to Work** 
+* https://github.com/OpenEugene/openboard/pulls

@@ -373,3 +373,14 @@ Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is c
  
 **Link(s) to Work** 
 * https://github.com/OpenEugene/openboard/pulls
+
+### Day 41: Saturday, September 14, 2019
+
+**Today's Progress** I couldn't get passed the same error I encountered last time with protobuf: ```google/api/annotations.proto: File not found.
+msgs/proto/user.proto:16:1: Import "google/api/annotations.proto" was not found or had errors``` I asked on Slack for help, then went back to work on my service alert from Google Cloud project. I found a bug that incorrectly set a db doc as outdated. I found another bug that can be fixed if I saved only unique alerts from the LTD site.
+
+**Thoughts** 
+ 
+**Link(s) to Work** 
+* https://github.com/OpenEugene/openboard/pulls
+* https://github.com/codegold79/bael

@@ -384,3 +384,22 @@ msgs/proto/user.proto:16:1: Import "google/api/annotations.proto" was not found 
 **Link(s) to Work** 
 * https://github.com/OpenEugene/openboard/pulls
 * https://github.com/codegold79/bael
+
+### Day 42: Sunday, September 15, 2019
+
+**Today's Progress** I got annoyed when I encountered a "does not support indexing" error. Why should I add parenthesis for pointers to make indexing possible? Why not just make it easier on us and let us get away without parenthesis?
+```
+pm := make([]Members, 5)
+pm := &m
+
+m[:2]     // good
+pm[:2]    // bad
+(*pm)[:2] // good ```
+Source: https://stackoverflow.com/questions/25290956/go-update-slice-iterating-error-does-not-support-indexing 
+
+I fixed the bugs with the data injesting part of the service alerts code. Now, I probably should take that out of the main package and start putting some logical structure to my code. Not that I know how to do that at the moment. I've never made packages outside of main.
+
+**Thoughts** This site seems promising in regard to helping with code structure: https://www.sohamkamani.com/blog/2017/09/13/how-to-build-a-web-application-in-golang/
+ 
+**Link(s) to Work** 
+* https://github.com/codegold79/bael

@@ -403,3 +403,16 @@ I fixed the bugs with the data injesting part of the service alerts code. Now, I
  
 **Link(s) to Work** 
 * https://github.com/codegold79/bael
+
+### Day 43: Monday, September 16, 2019
+
+**Today's Progress** Daved shared an article and several code snippets, which I read. They were about arrays, slices, and finally about empty interfaces. I still need more time with the interfaces, but my understanding of slices might be solidifying. I still am not sure how to use a struct and slice to my advantage at the moment. Here were what Daved shared:
+* https://blog.golang.org/go-slices-usage-and-internals#TOC_4
+* https://play.golang.org/p/Ki_zmYudzaQ
+* https://play.golang.org/p/my6l2JOmmsL
+* https://play.golang.org/p/58epBVn-21p
+
+**Thoughts** Hopefully, tomorrow, I can delve more into the questions I had tomorrow.
+ 
+**Link(s) to Work** 
+* 

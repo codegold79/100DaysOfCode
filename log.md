@@ -416,3 +416,15 @@ I fixed the bugs with the data injesting part of the service alerts code. Now, I
  
 **Link(s) to Work** 
 * 
+
+### Day 44: Thursday, September 19, 2019
+
+**Today's Progress** With @daved's help, I got the updated proto file to compile. I even built and executed the OpenBoard application--yay! I'm ready for our OpenBoard meeting on Tuesday. 
+
+Having read some of chapter 2 of Go In Action by William Kennedy, I was able to figure out how to restructure my code for my service alert project. It looks so much better now. I started to replace the slice pointers in function parameters, but I broke the code, so I haven't committed that change yet. 
+
+**Thoughts** I'm really liking the Go In Action book; it seems to cover how to use the Go language I've spent the last few months learning. I'm familiar with syntax and grammer, but now I need to learn how to compose and write idiomatically.
+ 
+**Link(s) to Work** 
+* https://github.com/codegold79/bael
+* https://github.com/OpenEugene/openboard/pulls

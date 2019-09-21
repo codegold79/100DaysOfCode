@@ -428,3 +428,12 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 **Link(s) to Work** 
 * https://github.com/codegold79/bael
 * https://github.com/OpenEugene/openboard/pulls
+
+### Day 45: Friday, September 20, 2019
+
+**Today's Progress** I converted the pointers to slices and just passed the slices themselves to functions in my service alerts project. After that, I started working on the user data, by outlining what I wanted the functions to do. I wrote out the function that retrieved all the user keys.
+
+**Thoughts** I still don't understand all of the function calls I need to do to retrieve data from Firestore. Maybe one day, it'll make sense. But for now, I don't know what context is, what closing the client does, and such.
+ 
+**Link(s) to Work** 
+* https://github.com/codegold79/bael

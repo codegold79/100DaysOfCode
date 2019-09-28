@@ -438,11 +438,18 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 **Link(s) to Work** 
 * https://github.com/codegold79/bael
 
-### Day 46: Friday, September 21, 2019
+### Day 46: Saturday, September 21, 2019
 
 **Today's Progress** I added the functionality to remove the outdated alerts from a user's stored alert keys in the service alerts project. It looks at a stored_alert's outdated_at timestamp. If it has one, it is outdated, and the alert key is removed from the user's collection.
 
 **Thoughts** It took a lot longer than I thought, because I got stuck there for a while retrieving an array using Get and DataAt(). When I used DataTo() and a struct per instructions at https://godoc.org/cloud.google.com/go/firestore
+ 
+**Link(s) to Work** 
+* https://github.com/codegold79/bael
+
+### Day 47: Friday, September 27, 2019
+
+**Today's Progress** Progress has been made for the service alerts app. New service alerts are identified and sent back for each userkey. I can tell that I'll need to construct the client in the package, instead of creating a variable and storing client for almost every function in the package. 
  
 **Link(s) to Work** 
 * https://github.com/codegold79/bael

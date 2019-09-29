@@ -453,3 +453,12 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
  
 **Link(s) to Work** 
 * https://github.com/codegold79/bael
+
+### Day 48: Saturday, September 28, 2019
+
+**Today's Progress** Today, I figured out how to send an email using a Cloud Function written in Go and SendGrid email libraries. Send Grid has some easy documentation to follow (https://app.sendgrid.com/guide/integrate/langs/go).
+
+**Thoughts** I stored the Send Grid API key in an environmental variable with Google Cloud function, but it seems that is not recommended, according to https://cloud.google.com/functions/docs/env-var#setting_environment_variables. I guess I'll have to deal with that later.
+ 
+**Link(s) to Work** 
+* https://source.cloud.google.com/ltd-sched-mon/ltd-sched-mon

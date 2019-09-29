@@ -462,3 +462,12 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
  
 **Link(s) to Work** 
 * https://source.cloud.google.com/ltd-sched-mon/ltd-sched-mon
+
+### Day 49: Sunday, September 29, 2019
+
+**Today's Progress** I added the functionality in the alerts project to send out alerts if they are new to the database.
+
+**Thoughts** After the backend is set up, I still need to figure out how to have users choose routes they'd like to (un)subscribe to. I'd like to set up email verification so we don't get erroneous subscriptions.
+
+**Link(s) to Work** 
+* https://github.com/codegold79/bael

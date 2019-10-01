@@ -471,3 +471,10 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 
 **Link(s) to Work** 
 * https://github.com/codegold79/bael
+
+### Day 50: Monday, September 30, 2019
+
+**Today's Progress** I finished up updating the user alerts and worked on the email content. It's going to take a lot of work to try to get the route IDs and the links to the service alert pages. Most of the re-arranging of the functions is done.
+
+**Link(s) to Work** 
+* https://github.com/codegold79/bael

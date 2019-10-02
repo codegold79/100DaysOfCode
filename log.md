@@ -478,3 +478,12 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 
 **Link(s) to Work** 
 * https://github.com/codegold79/bael
+
+### Day 51: Tuesday, October 1, 2019
+
+**Today's Progress** I decided to take on a challenge presented by an acquaintance. It was to multiply two fractions and return the reduced form of the product as a fraction, which I completed. The challenge also includes having to do a unit test as well as implement parallel processing, so I'm not done yet. I made the repo private since we should be coming up with the answers on our own.
+
+**Thoughts** I thought the challenge would have been easy to finish within an hour, since it's just multiplying two fractions. What ended up taking up all my time was writing out how to get the greatest common factor, which involved finding prime numbers. It was tricky to do the prime factor tree as an algorithm, as opposed to drawing it out on a piece of paper. But, I got through it, and I'll be looking at what Go tests are, for the first time, tomorrow.
+
+**Link(s) to Work** 
+* https://github.com/codegold79/aruku

@@ -487,3 +487,12 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 
 **Link(s) to Work** 
 * https://github.com/codegold79/aruku
+
+### Day 52: Wednesday, October 2, 2019
+
+**Today's Progress** I wrote some tests (table test) with some examples of edge cases for fractions. I was so good at coming up with scenarios, I had to rewrite my function to get my tests to pass.
+
+**Thoughts** Thank you again to @daved for writing the test tutorial and example so I can quickly get up to speed on how to write a Go test and how to follow some basic conventions.
+
+**Link(s) to Work** 
+* https://github.com/codegold79/aruku

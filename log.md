@@ -496,3 +496,19 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 
 **Link(s) to Work** 
 * https://github.com/codegold79/aruku
+
+### Day 53: Saturday, October 5, 2019
+
+**Today's Progress** I read a couple chapters of Go In Action by William Kennedy (https://www.amazon.com/Go-Action-William-Kennedy/dp/1617291781) regarding testing (Chp 9) and concurrency (Chp 6). Very helpful in establishing the basic concepts, and then going into best practices, as well as give examples of what code would be utilized in real life.
+
+**Link(s) to Work** 
+* https://github.com/codegold79/aruku
+
+### Day 54: Sunday, October 6, 2019
+
+**Today's Progress** I continued working on retrieving route information and associating them with the service alerts to send in the alert emails. The email also has some minor formatting. 
+
+**Thoughts** There appears to be a bug where the route_id for my user gets overwritten. Something to deal with next time.
+
+**Link(s) to Work** 
+* https://github.com/codegold79/bael

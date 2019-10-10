@@ -516,3 +516,10 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 ### Day 55: Monday, October 7, 2019
 
 **Today's Progress** I was curious as to the difference between Docker Containers, Kubernetes, VirtualBox, and VMWare. I read a few sites, with one of the more interesting ones being https://blogs.vmware.com/cloudnative/2017/10/25/kubernetes-introduction-vmware-users/ Who knew that K8 works well to run on VMWare's vSphere? Now, I wonder, what sorts of companies have a need for orchestration of massive numbers of servers and apps using containers and virtualization? I imagine Google, Amazon, and Facebook, but how about smaller companies? 
+
+### Day 56: Wednesday, October 9, 2019
+
+**Today's Progress** I worked on the first of my assigned issues. Created a branch and started working on creating a User type in the proto file, and using that to define Item(s). Unfortunately, the service is also called "User", so I have to change the service name to "UserSvc". No problem (I think). After the changes, I generated the pb files, then tried to build openboard server, but it said it couldn't find the postsvc migrations. I tried go generate, but it couldn't find the mysql module. Things to work on tomorrow. 
+
+**Link(s) to Work** 
+* https://github.com/OpenEugene/openboard/pulls

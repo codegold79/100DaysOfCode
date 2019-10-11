@@ -523,3 +523,10 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 
 **Link(s) to Work** 
 * https://github.com/OpenEugene/openboard/pulls
+
+### Day 57: Thursday, October 10, 2019
+
+**Today's Progress** I didn't realize I hadn't tried to run the program with the latest postsvc changes. There were a lot of errors. I fixed them all, as well as the errors that came from the usersvc changes yesterday. Submitted two PRs. I can start work on the second issue (create a client that can be used to test all the db functions) tomorrow.
+
+**Link(s) to Work** 
+* https://github.com/OpenEugene/openboard/pulls

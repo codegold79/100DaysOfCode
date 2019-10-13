@@ -530,3 +530,10 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 
 **Link(s) to Work** 
 * https://github.com/OpenEugene/openboard/pulls
+
+### Day 58: Saturday, October 12, 2019
+
+**Today's Progress** Tried to set up test client by initializing pb.NewUserSvcClient, but it couldn't find the function (undefined), despite my being able to see the function in the pb package. And yet, my tooltip indicated the old pb.NewUserClient was there (I can't see it there), so I used that instead. But, the weird thing is, when I tried to run pb.FndRoleReq on the client, it had more parameters in the function than the proto file's FndRoleReq had. Not sure what's going on.
+
+**Link(s) to Work** 
+* https://github.com/OpenEugene/openboard/pulls

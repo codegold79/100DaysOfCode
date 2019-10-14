@@ -537,3 +537,10 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 
 **Link(s) to Work** 
 * https://github.com/OpenEugene/openboard/pulls
+
+### Day 59: Sunday, October 13, 2019
+
+**Today's Progress** I got stuck again with my integration test client not being able see the protobuf generated files. I asked @daveddev for help, and he not only got me unstuck by telling me about using "replace" in go.mod. He also made use of a library he made (github.com/codemodus/relay) to help me manage my errors so they're more readable. Super thankful for all his help--it saved me so much time!
+
+**Link(s) to Work** 
+* https://github.com/OpenEugene/openboard/pulls

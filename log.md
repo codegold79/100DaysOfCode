@@ -544,3 +544,9 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 
 **Link(s) to Work** 
 * https://github.com/OpenEugene/openboard/pulls
+
+### Day 60: Monday, October 14, 2019
+
+**Today's Progress** Had a nice conversation with Michael Gasch at VMWare about #Golang. He recommended reading Bill Kennedy's four part blog post that ends with Design Philosophy On Data And Semantics (https://www.ardanlabs.com/blog/2017/05/language-mechanics-on-stacks-and-pointers.html) I read parts 1 and 2 today, and reviewed Bill's chapter on concurrency. 
+
+**Thoughts** I'm so thankful for people like Bill who can not only break concepts down to their most simplest ideas, and teach people difficult concepts by building up from the foundation. For the first time, I think I finally understand pointers, why we need pointer types (the addresses might be 8 bytes, but they need to point to different data types), and why you should return the pointer and not just declare a variable as a pointer. It's so much readable when you do that. Also, loved learning about how to see the decisions the garbage collector made by using `go build -gcflags "-m -m"`. Fascinating stuff!

@@ -557,7 +557,7 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 
 ### Day 62: Friday, October 18, 2019
 
-**Today's Progress** I completed the first of two PRs in this sprint for openboard and @daved approved it after some fixups. We decided on Nathan Youngman and Roger Peppe's book, Get Programming with Go for our Go Book Club. I read through three lessons (chapters), completed the exercises for them, and pushed up the code in a new repository.
+**Today's Progress** I completed the first of two PRs in this sprint for openboard and @daved approved it after some fixups. We decided on Nathan Youngman and Roger Peppe's book, Get Programming with Go for our Go Book Club. I read through two lessons (chapters), completed the exercises for them, and pushed up the code in a new repository.
 
 **Link(s) to Work** 
 * https://github.com/OpenEugene/openboard/pulls

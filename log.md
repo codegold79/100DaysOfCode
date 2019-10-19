@@ -554,3 +554,11 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 ### Day 61: Wednesday, October 16, 2019
 
 **Today's Progress** I read a paper regarding Application Platforms and how VMWare will provide the solution to the difficulty of scaling by use of a Hybrid Cloud Runtime. It's fascinating to find similarities between increasing the scaling of applications and the increasing of production volumes in a manufacturing setting. Failing to identify the correct bottlenecks in each case can lead to incurring unsustainable cost due to throwing more resources in areas that aren't needed. The strength of VMWare is they have the people who can bring a wholistic understanding of the system and its problems.
+
+### Day 62: Friday, October 18, 2019
+
+**Today's Progress** I completed the first of two PRs in this sprint for openboard and @daved approved it after some fixups. We decided on Nathan Youngman and Roger Peppe's book, Get Programming with Go for our Go Book Club. I read through three lessons (chapters), completed the exercises for them, and pushed up the code in a new repository.
+
+**Link(s) to Work** 
+* https://github.com/OpenEugene/openboard/pulls
+* https://github.com/codegold79/get-programming-with-go

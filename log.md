@@ -394,7 +394,8 @@ pm := &m
 
 m[:2]     // good
 pm[:2]    // bad
-(*pm)[:2] // good ```
+(*pm)[:2] // good
+```
 Source: https://stackoverflow.com/questions/25290956/go-update-slice-iterating-error-does-not-support-indexing 
 
 I fixed the bugs with the data injesting part of the service alerts code. Now, I probably should take that out of the main package and start putting some logical structure to my code. Not that I know how to do that at the moment. I've never made packages outside of main.
@@ -566,11 +567,11 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 ### Day 63: Saturday, October 19, 2019
 
 **Today's Progress** I read and did the exercises for lessons 3 and 4 in Get Programming With Go. I thought these initial chapters wouldn't have anything new for me, but they did. I learned
-• only short variable declarations can be in `for` loops and `if` statements
-• each `case` in `switch` has its own variable scope
-• the `fallthrough` keyword in `switch`
-• there are only 25 keywords to learn in Go
-• math/rand package's handy `Intn()` function 
+* only short variable declarations can be in `for` loops and `if` statements
+* each `case` in `switch` has its own variable scope
+* the `fallthrough` keyword in `switch`
+* there are only 25 keywords to learn in Go
+* math/rand package's handy `Intn()` function 
 
 **Link(s) to Work** 
 * https://github.com/codegold79/get-programming-with-go

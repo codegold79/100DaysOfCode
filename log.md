@@ -562,3 +562,15 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 **Link(s) to Work** 
 * https://github.com/OpenEugene/openboard/pulls
 * https://github.com/codegold79/get-programming-with-go
+
+### Day 63: Saturday, October 19, 2019
+
+**Today's Progress** I read and did the exercises for lessons 3 and 4 in Get Programming With Go. I thought these initial chapters wouldn't have anything new for me, but they did. I learned
+• only short variable declarations can be in `for` loops and `if` statements
+• each `case` in `switch` has its own variable scope
+• the `fallthrough` keyword in `switch`
+• there are only 25 keywords to learn in Go
+• math/rand package's handy `Intn()` function 
+
+**Link(s) to Work** 
+* https://github.com/codegold79/get-programming-with-go

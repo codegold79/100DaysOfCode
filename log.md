@@ -575,3 +575,10 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 
 **Link(s) to Work** 
 * https://github.com/codegold79/get-programming-with-go
+
+### Day 65: Monday, October 21, 2019
+
+**Today's Progress** I completed the lesson 5 capstone exercise in Get Programming With Go. I totally forgot about using hyphen followed by numbers to control spacing in fmt.Printf. One thing I'm guessing happens, that I didn't think of before, was that if you use short variable declaration inside a for loop, that it won't try to redeclare the variable again if it's going to be used. It will ignore the colon, and treat any iteration after the first as a regular equal sign.
+
+**Link(s) to Work** 
+* https://github.com/codegold79/get-programming-with-go

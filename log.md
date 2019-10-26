@@ -589,3 +589,11 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 
 **Link(s) to Work** 
 * https://github.com/OpenEugene/openboard/pulls
+
+### Day 66: Saturday, October 26, 2019
+
+**Today's Progress** Learned about construction functions in Go, and how they're used so that zero value structs won't break a package because it can't deal with them. Refactored the openboard integration test program so that the user and post service tests would be in their own functions.
+
+**Link(s) to Work** 
+* https://github.com/OpenEugene/openboard/pulls
+* https://golangbot.com/structs-instead-of-classes/

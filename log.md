@@ -597,3 +597,10 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 **Link(s) to Work** 
 * https://github.com/OpenEugene/openboard/pulls
 * https://golangbot.com/structs-instead-of-classes/
+
+### Day 67: Saturday, October 29, 2019
+
+**Today's Progress** Tried to write another function in the integration test to add a user, but I keep getting rpc errors. Not sure how to get passed them.
+
+**Link(s) to Work** 
+* https://github.com/OpenEugene/openboard/pulls

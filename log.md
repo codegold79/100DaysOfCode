@@ -604,3 +604,10 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 
 **Link(s) to Work** 
 * https://github.com/OpenEugene/openboard/pulls
+
+### Day 68: Saturday, November 3, 2019
+
+**Today's Progress** Finally got passed the pointer as a structure field error for integration test. Added user through test successfully. Added more tests for finding users, removing a user, and updating a user. Also changed how we query finding users.
+
+**Link(s) to Work** 
+* https://github.com/OpenEugene/openboard/pulls

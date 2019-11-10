@@ -307,7 +307,7 @@ Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is c
 
 **Today's Progress** I started another repository where I will be putting Go practice code. So far, I've created a webpage scraper that scrapes the contents of one webpage using *net/http*. I parsed the data with the help of *golang.org/x/net/html* and *string*, and saved the data to a file using *os*. 
 
-**Thoughts** I could have used a bigger libary to parse the website data, but it was simple enough, I was willing to go through the process of figuring out how to parse it myself.
+**Thoughts** I could have used a bigger library to parse the website data, but it was simple enough, I was willing to go through the process of figuring out how to parse it myself.
  
 **Link(s) to Work** https://github.com/codegold79/bael
 
@@ -339,7 +339,7 @@ Finally. the hello service tutorial had a slight discrepenacy. When AddHelo is c
 
 ### Day 37: Sunday, September 8, 2019
 
-**Today's Progress** I learned about more strings package functions like Join, Split, Replace, and ReplaceAll. I used these to try to clean up the text that goquery sent back, but they didn't work as well as I wanted. I endedup using the regexp package to remove excessive white space.
+**Today's Progress** I learned about more strings package functions like Join, Split, Replace, and ReplaceAll. I used these to try to clean up the text that goquery sent back, but they didn't work as well as I wanted. I ended up using the regexp package to remove excessive white space.
 
 **Thoughts** Next will be saving the alerts to Firestore.
  

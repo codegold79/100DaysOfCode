@@ -611,3 +611,11 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 
 **Link(s) to Work** 
 * https://github.com/OpenEugene/openboard/pulls
+
+### Day 69: Sunday, November 10, 2019
+
+**Today's Progress** I've decided to go back to my service alert project and see what all still needs to be done with that project. Most of today was reading what was already done and trying to figure out what was not working right. I created issues when I found any notes on problems or for the ones I encountered. I ended up fixing one small bug that affected formatting of emailed messages. 
+
+**Thoughts** It's difficult to QA this project since the interaction with Firestore is so slow. I might have to add in functionality to skip sections of code, or get used to inserting/removing comment slashes.
+ 
+**Link(s) to Work** https://github.com/codegold79/bael

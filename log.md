@@ -619,3 +619,9 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 **Thoughts** It's difficult to QA this project since the interaction with Firestore is so slow. I might have to add in functionality to skip sections of code, or get used to inserting/removing comment slashes.
  
 **Link(s) to Work** https://github.com/codegold79/bael
+
+### Day 70: Friday, November 15, 2019
+
+**Today's Progress** I've been so used to using integers for table keys, and didn't know there was a better way until I worked on Openboard. Turns out a randomized string, or UID, can be used for keys and it obscures a little how to access an item. A neat feature of the UID we're using is it is generated in an ordered manner so our MariaDb database doesn't have to spend a lot of time adding to the end of a unique key set. So today, I updated all the integer IDs to be strings, or varchar(26) in our migrations. Since that didn't take much time, I also studied up on the Slack API. I found out from my research I would like to make a slash command.
+
+**Link(s) to Work** https://github.com/OpenEugene/openboard/pulls

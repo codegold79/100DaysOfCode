@@ -633,3 +633,9 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 **Thoughts** I was trying to overcomplicate things. Hopefully, tomorrow I can start working on integration tests.
 
 **Link(s) to Work** https://github.com/OpenEugene/openboard/pulls
+
+### Day 72: Monday, November 18, 2019
+
+**Today's Progress** Read chapters 6 and 7 of Get Programming With Go and completed exercises for 6. 
+
+**Link(s) to Work** https://github.com/codegold79/get-programming-with-go/tree/master/lesson06

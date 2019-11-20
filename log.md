@@ -639,3 +639,9 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 **Today's Progress** Read chapters 6 and 7 of Get Programming With Go and completed exercises for 6. 
 
 **Link(s) to Work** https://github.com/codegold79/get-programming-with-go/tree/master/lesson06
+
+### Day 73: Tuesday, November 19, 2019
+
+**Today's Progress** I followed a GCP tutorial for using Cloud Functions and Go to make a Slack slash command: https://cloud.google.com/functions/docs/tutorials/slack. It was a lot of fun to build and test out, but the final response is interpretted as a string and doesn't look at the json I sent. Reading Slack's documentation, it looks like they might have changed what the response message structure. I think I need a block property and get rid of the response_type property.
+
+**Link(s) to Work** https://github.com/codegold79/daekath

@@ -645,3 +645,9 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 **Today's Progress** I followed a GCP tutorial for using Cloud Functions and Go to make a Slack slash command: https://cloud.google.com/functions/docs/tutorials/slack. It was a lot of fun to build and test out, but the final response is interpreted as a string and doesn't look at the json I sent. Reading Slack's documentation, it looks like they might have changed the response message structure. I think I need a block property and get rid of the response_type property.
 
 **Link(s) to Work** https://github.com/codegold79/daekath
+
+### Day 74: Wednesday, November 20, 2019
+
+**Today's Progress** I found the reason for my woes yesterday was because I had "Content-Type:" instead of "Content-Type". That colon was the only difference between Slack API interpreting the JSON and not. With that working, I wanted to see how different it would be running the same code on Lambda. AWS was more difficult to navigate, given that the roles are hard to select permissions for, and I had to manually set up the API Gateway trigger. In GCP, I didn't have to set the role and the API Gateway was simply selecting "HTTP" from a drop-down menu. I make a couple minor changes such as storing the SLACK_TOKEN in an environmental variable and generating a door code, instead of inspirational quotes.
+
+**Link(s) to Work** https://github.com/codegold79/daekath

@@ -657,3 +657,9 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 **Today's Progress** Read chapters 8 and 9 of Get Programming With Go and completed exercises for 8. 
 
 **Link(s) to Work** https://github.com/codegold79/get-programming-with-go/tree/master/lesson08
+
+### Day 76: Sunday, December 1, 2019
+
+**Today's Progress** Had an OpenBoard meeting with @DavedDev last Tuesday. He made some helpful comments on PR#57. After going over what needed to be done, we agreed it would be better to redo the changes given my new understanding. Plus, what I had done was a huge mess. Today, I completely redid the code changes for the integration test client in a more orderly manner. Making the changes the second time was easier, made much more sense, and is hopefully, much more readable.
+
+**Link(s) to Work** https://github.com/OpenEugene/openboard/pulls

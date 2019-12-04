@@ -671,3 +671,9 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 **Link(s) to Work** 
 * https://github.com/codegold79/get-programming-with-go/tree/master/lesson09
 * https://github.com/codegold79/get-programming-with-go/tree/master/lesson10
+
+### Day 78: Tuesday, December 3, 2019
+
+**Today's Progress** Wrote a couple more integration tests for openboard user and post services. While trying to add FndUser test, it seems there are some old dependencies that didn't have the fixes I had made. Strange. Will have to look into it another day.
+
+**Link(s) to Work** https://github.com/OpenEugene/openboard/pulls

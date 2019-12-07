@@ -677,3 +677,9 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 **Today's Progress** Wrote a couple more integration tests for openboard user and post services. While trying to add FndUser test, it seems there are some old dependencies that didn't have the fixes I had made. Strange. Will have to look into it another day.
 
 **Link(s) to Work** https://github.com/OpenEugene/openboard/pulls
+
+### Day 79: Tuesday, December 6, 2019
+
+**Today's Progress** Fixed the go.mod file to replace a path to an internal dependency. Fixed the find user queries until the new find user integration test worked.
+
+**Link(s) to Work** https://github.com/OpenEugene/openboard/pulls

@@ -678,8 +678,14 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 
 **Link(s) to Work** https://github.com/OpenEugene/openboard/pulls
 
-### Day 79: Tuesday, December 6, 2019
+### Day 79: Friday, December 6, 2019
 
 **Today's Progress** Fixed the go.mod file to replace a path to an internal dependency. Fixed the find user queries until the new find user integration test worked.
+
+**Link(s) to Work** https://github.com/OpenEugene/openboard/pulls
+
+### Day 80: Saturday, December 7, 2019
+
+**Today's Progress** Did yet another refactoring of the integration test file. Made the existing tests more robust by adding more roles and users and doing a search on an existing user and another not. Had to modify the queries in the main code to make the results closer to what is intended.
 
 **Link(s) to Work** https://github.com/OpenEugene/openboard/pulls

@@ -700,4 +700,10 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 
 **Today's Progress** I didn't know the first thing about running MariaDb on Docker, so I completed a few beginners' tutorials on the default bridge network for containers and how to access a running MariaDb server instance. After being able to log into the MySQL server, I looked into the OpenBoard database code to see how the program was accessing the database. I couldn't figure it out, but I saw that Daved had created a Docker compose manifest as well as two docker images. Next step for me will be to figure out how to run the compose file.
 
-**Link(s) to Work** https://github.com/OpenEugene/openboard/pullsg
+**Link(s) to Work** https://github.com/OpenEugene/openboard/pulls
+
+### Day 83: Tuesday, December 10, 2019
+
+**Today's Progress** Worked on getting the docker-compse.yml file by exporting variables in shell, getting the command right (it's docker-compose, not docker compose, at least on Catalina), editing the Dockerfiles, removing images and containers to get the changes to catch. I probably could have saved some time and used docker-compose build or docker-compose up --build. I spent a little time trying to figure out how to get google.golang.org/grpc to be recognized by VS Code, but finally gave up when there was nothing to clone into the src directory. I also had to get the author back to my personal github account details (instead of work), so had to rebase my log entries there. Still more to go with Docker tomorrow.
+
+**Link(s) to Work** https://github.com/OpenEugene/openboard/pulls

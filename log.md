@@ -689,3 +689,15 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 **Today's Progress** Did yet another refactoring of the integration test file. Made the existing tests more robust by adding more roles and users and doing a search on an existing user and another not. Had to modify the queries in the main code to make the results closer to what is intended.
 
 **Link(s) to Work** https://github.com/OpenEugene/openboard/pulls
+
+### Day 81: Sunday, December 8, 2019
+
+**Today's Progress** I wanted to work on openboard on my MacBook while traveling, which means I needed to install the backend software. However, MariaDb is proving difficult to install (again). After nearly an hour of working on errors and searching for solutions on Google, I removed MariaDb and will be trying again, maybe within a Docker container next time.
+
+**Link(s) to Work** https://github.com/OpenEugene/openboard/pulls
+
+### Day 82: Monday, December 9, 2019
+
+**Today's Progress** I didn't know the first thing about running MariaDb on Docker, so I completed a few beginners' tutorials on the default bridge network for containers and how to access a running MariaDb server instance. After being able to log into the MySQL server, I looked into the OpenBoard database code to see how the program was accessing the database. I couldn't figure it out, but I saw that Daved had created a Docker compose manifest as well as two docker images. Next step for me will be to figure out how to run the compose file.
+
+**Link(s) to Work** https://github.com/OpenEugene/openboard/pullsg

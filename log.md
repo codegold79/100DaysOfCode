@@ -707,3 +707,9 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 **Today's Progress** Worked on getting the docker-compse.yml file by exporting variables in shell, getting the command right (it's docker-compose, not docker compose, at least on Catalina), editing the Dockerfiles, removing images and containers to get the changes to catch. I probably could have saved some time and used docker-compose build or docker-compose up --build. I spent a little time trying to figure out how to get google.golang.org/grpc to be recognized by VS Code, but finally gave up when there was nothing to clone into the src directory. I also had to get the author back to my personal github account details (instead of work), so had to rebase my log entries there. Still more to go with Docker tomorrow.
 
 **Link(s) to Work** https://github.com/OpenEugene/openboard/pulls
+
+### Day 84: Wednesday, December 11, 2019
+
+**Today's Progress** After trying some more to get docker-compose to work, the script failed to connect to the mysql server. I finally gave up and spent some time cleaning up the mysql/mariadb installation. I reinstalled with brew and one website revealed that running mysql_secure_installation only works with sudo. If I had known that from the beginning, I wouldn't have gone through all this hassel. Ah well. Tomorrow, I'll be able to get openboard to work on my work computer, hopefully.
+
+**Link(s) to Work** https://github.com/OpenEugene/openboard/pulls

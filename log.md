@@ -713,3 +713,9 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 **Today's Progress** After trying some more to get docker-compose to work, the script failed to connect to the mysql server. I finally gave up and spent some time cleaning up the mysql/mariadb installation. I reinstalled with brew and one website revealed that running mysql_secure_installation only works with sudo. If I had known that from the beginning, I wouldn't have gone through all this hassel. Ah well. Tomorrow, I'll be able to get openboard to work on my work computer, hopefully.
 
 **Link(s) to Work** https://github.com/OpenEugene/openboard/pulls
+
+### Day 85: Thursday, December 12, 2019
+
+**Today's Progress** Went as far as I could with user service tests by adding a delete user option. Added an issues regarding not actually deleting data, but marking them as deleted. Added another issue regarding linking users and posts. Continued post service test by adding types and another post. There is no find types yet in postdb.go, but I wrote the test anyway and commented it out. Finding posts is causing gRPC errors so I have not pushed up those changes yet.
+
+**Link(s) to Work** https://github.com/OpenEugene/openboard/pulls

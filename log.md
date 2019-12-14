@@ -719,3 +719,9 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 **Today's Progress** Went as far as I could with user service tests by adding a delete user test. Added an issue regarding not actually deleting data, but marking them as deleted. Added another issue regarding linking users and posts. Continued post service test by adding types and another post. There is no find types yet in postdb.go, but I wrote the test anyway and commented it out. Finding posts is causing gRPC errors so I have not pushed up those changes yet.
 
 **Link(s) to Work** https://github.com/OpenEugene/openboard/pulls
+
+### Day 86: Friday, December 13, 2019
+
+**Today's Progress** Spent over an hour finding errors caused by having wildcards in the query statement, instead of concatenating the percent symbols to the variables bound to the MySQL query parameters. Learned that I don't need quotes around query parameters as the mysql driver will handle those automatically. I didn't make any commits because more errors are happening. More to do tomorrow.
+
+**Link(s) to Work** https://github.com/OpenEugene/openboard/pulls

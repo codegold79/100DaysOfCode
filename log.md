@@ -712,6 +712,8 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 
 **Today's Progress** After trying some more to get docker-compose to work, the script failed to connect to the mysql server. I finally gave up and spent some time cleaning up the mysql/mariadb installation. I reinstalled with brew and one website revealed that running mysql_secure_installation only works with sudo. If I had known that from the beginning, I wouldn't have gone through all this hassel. Ah well. Tomorrow, I'll be able to get openboard to work on my work computer, hopefully.
 
+**Thoughts** There's enough days in the year that I can finish #100DaysOfCode before 2020, and there are three days where I can take a break.
+
 **Link(s) to Work** https://github.com/OpenEugene/openboard/pulls
 
 ### Day 85: Thursday, December 12, 2019
@@ -723,5 +725,13 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 ### Day 86: Friday, December 13, 2019
 
 **Today's Progress** Spent over an hour finding errors caused by having wildcards in the query statement, instead of concatenating the percent symbols to the variables bound to the MySQL query parameters. Learned that I don't need quotes around query parameters as the mysql driver will handle those automatically. I didn't make any commits because more errors are happening. More to do tomorrow.
+
+**Link(s) to Work** https://github.com/OpenEugene/openboard/pulls
+
+### Day 87: Sunday, December 15, 2019
+
+**Today's Progress** Errors are getting easier to figure out and fix. I had to ensure that slug field needed to be saved as a blank string to be consistent with the Go strict data types that require it to be a string or nil, not MySQL's NULL value. The fix enabled me to find posts. I added an edit post test as well. There are two tests remaining: delete post and find types.
+
+**Thoughts** Had to miss a day yesterday, ironically because Go Bootcamp took all day. Now, I only have two days I can miss to be able to finish 100 Days of Code by the end of the year.
 
 **Link(s) to Work** https://github.com/OpenEugene/openboard/pulls

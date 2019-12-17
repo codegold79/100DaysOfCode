@@ -735,3 +735,11 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 **Thoughts** Had to miss a day yesterday, ironically because Go Bootcamp took all day. Now, I only have two days I can miss to be able to finish 100 Days of Code by the end of the year.
 
 **Link(s) to Work** https://github.com/OpenEugene/openboard/pulls
+
+### Day 88: Monday, December 16, 2019
+
+**Today's Progress** Added delete post test. Find types was added to the post.proto file as well as added to the post service interface and queries. The find types test was added.
+
+**Thoughts** I had miscalculated how many days I can miss. I can miss three (not two as I originally thought) to have the last #100DaysOfCode challenge day and the last day of the year to be the same.
+
+**Link(s) to Work** https://github.com/OpenEugene/openboard/pulls

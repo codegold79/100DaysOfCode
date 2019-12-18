@@ -743,3 +743,7 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 **Thoughts** I had miscalculated how many days I can miss. I can miss three (not two as I originally thought) to have the last #100DaysOfCode challenge day and the last day of the year to be the same.
 
 **Link(s) to Work** https://github.com/OpenEugene/openboard/pulls
+
+### Day 89: Tuesday, December 17, 2019
+
+**Today's Progress** I thought I understood strings in Go, but after an hour, I still couldn't figure out how to decipher text encoded with a Vigenère Cipher. That was one of the two exercises for the capstone lesson 11 in Get Programming with Go. Tomorrow, I'll have to go over chapter 9 again and see what I'm missing.

@@ -747,3 +747,7 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 ### Day 89: Tuesday, December 17, 2019
 
 **Today's Progress** I thought I understood strings in Go, but after an hour, I still couldn't figure out how to decipher text encoded with a Vigenère Cipher. That was one of the two exercises for the capstone lesson 11 in Get Programming with Go. Tomorrow, I'll have to go over chapter 9 again and see what I'm missing.
+
+### Day 90: Wednesday, December 18, 2019
+
+**Today's Progress** I tried to do the arithmetic of the Vigenère cipher in my head, but after failing after an hour to get anything other than gibberish for an answer, I think I need to get out a paper and pencil and solve this the old fashioned way first. Then, maybe I can finish writing the program. The fact that bytes are unsigned int8s makes this problem particularly difficult for me to work around.

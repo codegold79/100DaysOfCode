@@ -751,3 +751,14 @@ Having read some of chapter 2 of Go In Action by William Kennedy, I was able to 
 ### Day 90: Wednesday, December 18, 2019
 
 **Today's Progress** I tried to do the arithmetic of the Vigenère cipher in my head, but after failing after an hour to get anything other than gibberish for an answer, I think I need to get out a paper and pencil and solve this the old fashioned way first. Then, maybe I can finish writing the program. The fact that bytes are unsigned int8s makes this problem particularly difficult for me to work around.
+
+### Day 91: Thursday, December 19, 2019
+
+**Today's Progress** With the help of pen and paper, I figured the arithmetic required to decipher the Vigenère message. Using the equations I figured out, I came up with two solutions. The first decoded using strings package and no range keyword. The second decoded using range but no other package except fmt.
+
+For the third way, which the book mentioned should not use if statements, but rather modulo, I had to look up the Wikipedia article. I'm afraid I'm losing patience for this capstone chapter, so I didn't want to figure it out.
+
+**Thoughts** After all that, there's still the encryption part of the capstone to complete. Hopefully, encryption will be faster than decryption.
+
+**Link(s) to Work** 
+* https://github.com/codegold79/get-programming-with-go/lesson11

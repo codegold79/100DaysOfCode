@@ -762,3 +762,13 @@ For the third way, which the book mentioned should not use if statements, but ra
 
 **Link(s) to Work** 
 * https://github.com/codegold79/get-programming-with-go/lesson11
+
+### Day 92: Thursday, December 20, 2019
+
+**Today's Progress** Ciphering was much easier than deciphering. I completed the exercise with time to spare. I spent the remainder of the hour reading chapter 12.
+
+**Thoughts** Today, I submitted a PR for OpenFaaS/FaaS-Cli contribution. It was a simple one, but I had included a table test, and I felt accomplished. Hopefully, I can get out of the beginner level and get into the intermediate one. It is nice to have some knowledge of bash (thanks to my Ubuntu machine at IDX, thanks to Daved for teaching me some basics, thanks to having my personal computer--this one--be an Ubuntu), and basic knowledge of git (thanks to IDX having me rebase so much).
+
+**Link(s) to Work** 
+* https://github.com/codegold79/get-programming-with-go/lesson11
+* https://github.com/openfaas/faas-cli/pull/741

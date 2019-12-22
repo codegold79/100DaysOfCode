@@ -763,7 +763,7 @@ For the third way, which the book mentioned should not use if statements, but ra
 **Link(s) to Work** 
 * https://github.com/codegold79/get-programming-with-go/lesson11
 
-### Day 92: Thursday, December 20, 2019
+### Day 92: Friday, December 20, 2019
 
 **Today's Progress** Ciphering was much easier than deciphering. I completed the exercise with time to spare. I spent the remainder of the hour reading chapter 12.
 
@@ -771,4 +771,12 @@ For the third way, which the book mentioned should not use if statements, but ra
 
 **Link(s) to Work** 
 * https://github.com/codegold79/get-programming-with-go/lesson11
-* https://github.com/openfaas/faas-cli/pull/741
+
+### Day 93: Saturday, December 21, 2019
+
+**Today's Progress** Finished reading chapter 12, did the exercise, and started to reach chapter 13.
+
+**Thoughts** Tuesday is next OpenBoard meetup day, when I anticipate getting more assignments. I anticipate continuing with the book Sunday, Monday, and even Tuesday (since it's Xmas eve and there's no work that day).
+
+**Link(s) to Work** 
+* https://github.com/codegold79/get-programming-with-go/lesson12

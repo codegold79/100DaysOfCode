@@ -774,9 +774,24 @@ For the third way, which the book mentioned should not use if statements, but ra
 
 ### Day 93: Saturday, December 21, 2019
 
-**Today's Progress** Finished reading chapter 12, did the exercise, and started to reach chapter 13.
+**Today's Progress** Finished reading chapter 12, did the exercise, and started to read chapter 13.
 
 **Thoughts** Tuesday is next OpenBoard meetup day, when I anticipate getting more assignments. I anticipate continuing with the book Sunday, Monday, and even Tuesday (since it's Xmas eve and there's no work that day).
+
+**Link(s) to Work** 
+* https://github.com/codegold79/get-programming-with-go/lesson12
+
+### Day 94: Sunday, December 22, 2019
+
+**Today's Progress** Finished reading chapter 13 on methods, did the exercise, and finished reading chapter 14. Chapter 14 covered first class functions, which was a nice review for me because a couple weeks ago, I had studied Dave Cheney's article, https://dave.cheney.net/2016/11/13/do-not-fear-first-class-functions (thanks @daved for finding that). Doing the exercise (tomorrow) will help to solidify first class functions in my mind.
+
+**Thoughts** Regarding the methods chapter 13, I didn't like how methods were not considered a different kind of function. It was classified as not a kind of function, but only like a function and something different. So, the statement on page 107 was misleading to me, "A package can only have a single function with a given name, and it can’t be the same name as a type, so a celsius function that returns a celsius type isn’t possible." 
+
+If I were to re-write the concept of method, I would use the wording in GoTour. On the page https://tour.golang.org/methods/1, it says, "A method is a function with a special receiver argument." 
+
+On the next page, https://tour.golang.org/methods/2, it emphasizes, "Remember: a method is just a function with a receiver argument."
+
+And I would rewrite the Get Programming With Go sentence to say, "A package can only have a single (non-method) function with a given name, and it can't be the same name as a type. However, if the function is a method, it too cannot have the same name as another function, however, it can have the same name as a type."
 
 **Link(s) to Work** 
 * https://github.com/codegold79/get-programming-with-go/lesson12

@@ -794,4 +794,15 @@ On the next page, https://tour.golang.org/methods/2, it emphasizes, "Remember: a
 And I would rewrite the Get Programming With Go sentence to say, "A package can only have a single (non-method) function with a given name, and it can't be the same name as a type. However, if the function is a method, it too cannot have the same name as another function, however, it can have the same name as a type."
 
 **Link(s) to Work** 
-* https://github.com/codegold79/get-programming-with-go/lesson12
+* https://github.com/codegold79/get-programming-with-go/lesson13
+
+### Day 95: Monday, December 23, 2019
+
+**Today's Progress** @daved reviewed my #OpenBoard PR and I fixed what I could. The rest will be discussed tomorrow during our meeting. Completed lesson 14 exercise, and finished lesson 15 capstone exercise. That capstone is messier than the answer in the appendix, so it can do with some refactoring.
+
+**Thoughts** I think a countdown can begin--only 5 days remaining in the challenge!
+
+**Link(s) to Work** 
+* https://github.com/OpenEugene/openboard/pulls
+* https://github.com/codegold79/get-programming-with-go/lesson14
+* https://github.com/codegold79/get-programming-with-go/lesson15

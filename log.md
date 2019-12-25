@@ -806,3 +806,12 @@ And I would rewrite the Get Programming With Go sentence to say, "A package can 
 * https://github.com/OpenEugene/openboard/pulls
 * https://github.com/codegold79/get-programming-with-go/lesson14
 * https://github.com/codegold79/get-programming-with-go/lesson15
+
+### Day 96: Wednesday, December 25, 2019
+
+**Today's Progress** Completed lesson 16 reading and exercise, and lesson 17 reading. I'm able to go quickly through these chapters because array and slice syntax is review for me.
+
+**Thoughts** Four days remaining in the challenge!
+
+**Link(s) to Work** 
+* https://github.com/codegold79/get-programming-with-go/lesson16

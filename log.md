@@ -815,3 +815,13 @@ And I would rewrite the Get Programming With Go sentence to say, "A package can 
 
 **Link(s) to Work** 
 * https://github.com/codegold79/get-programming-with-go/lesson16
+
+### Day 97: Thursday, December 26, 2019
+
+**Today's Progress** Completed lesson 17 exercise, and lesson 18 reading and exercise. I learned that append can modify the original underlying array if the capacity was large enough to hold the additional element. However, a new array will be created (with double the previous capacity), if the added element does not fit in the slice. It was also interesting to learn that when taking a slice of an array that has values, the slice capacity will be however many elements of the array was added, plus the rest of the array that wasn't used.
+
+**Thoughts** Three days remaining in the challenge!
+
+**Link(s) to Work** 
+* https://github.com/codegold79/get-programming-with-go/lesson17
+* https://github.com/codegold79/get-programming-with-go/lesson18

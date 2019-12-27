@@ -761,7 +761,7 @@ For the third way, which the book mentioned should not use if statements, but ra
 **Thoughts** After all that, there's still the encryption part of the capstone to complete. Hopefully, encryption will be faster than decryption.
 
 **Link(s) to Work** 
-* https://github.com/codegold79/get-programming-with-go/lesson11
+* https://github.com/codegold79/get-programming-with-go/tree/master/lesson11
 
 ### Day 92: Friday, December 20, 2019
 
@@ -770,7 +770,7 @@ For the third way, which the book mentioned should not use if statements, but ra
 **Thoughts** Today, I submitted a PR for OpenFaaS/FaaS-Cli contribution. It was a simple one, but I had included a table test, and I felt accomplished. Hopefully, I can get out of the beginner level and get into the intermediate one. It is nice to have some knowledge of bash (thanks to my Ubuntu machine at IDX, thanks to Daved for teaching me some basics, thanks to having my personal computer--this one--be an Ubuntu), and basic knowledge of git (thanks to IDX having me rebase so much).
 
 **Link(s) to Work** 
-* https://github.com/codegold79/get-programming-with-go/lesson11
+* https://github.com/codegold79/get-programming-with-go/tree/master/lesson11
 
 ### Day 93: Saturday, December 21, 2019
 
@@ -779,7 +779,7 @@ For the third way, which the book mentioned should not use if statements, but ra
 **Thoughts** Tuesday is next OpenBoard meetup day, when I anticipate getting more assignments. I anticipate continuing with the book Sunday, Monday, and even Tuesday (since it's Xmas eve and there's no work that day).
 
 **Link(s) to Work** 
-* https://github.com/codegold79/get-programming-with-go/lesson12
+* https://github.com/codegold79/get-programming-with-go/tree/master/lesson12
 
 ### Day 94: Sunday, December 22, 2019
 
@@ -794,7 +794,7 @@ On the next page, https://tour.golang.org/methods/2, it emphasizes, "Remember: a
 And I would rewrite the Get Programming With Go sentence to say, "A package can only have a single (non-method) function with a given name, and it can't be the same name as a type. However, if the function is a method, it too cannot have the same name as another function, however, it can have the same name as a type."
 
 **Link(s) to Work** 
-* https://github.com/codegold79/get-programming-with-go/lesson13
+* https://github.com/codegold79/get-programming-with-go/tree/master/lesson13
 
 ### Day 95: Monday, December 23, 2019
 
@@ -804,8 +804,8 @@ And I would rewrite the Get Programming With Go sentence to say, "A package can 
 
 **Link(s) to Work** 
 * https://github.com/OpenEugene/openboard/pulls
-* https://github.com/codegold79/get-programming-with-go/lesson14
-* https://github.com/codegold79/get-programming-with-go/lesson15
+* https://github.com/codegold79/get-programming-with-go/tree/master/lesson14
+* https://github.com/codegold79/get-programming-with-go/tree/master/lesson15
 
 ### Day 96: Wednesday, December 25, 2019
 
@@ -814,7 +814,7 @@ And I would rewrite the Get Programming With Go sentence to say, "A package can 
 **Thoughts** Four days remaining in the challenge!
 
 **Link(s) to Work** 
-* https://github.com/codegold79/get-programming-with-go/lesson16
+* https://github.com/codegold79/get-programming-with-go/tree/master/lesson16
 
 ### Day 97: Thursday, December 26, 2019
 
@@ -823,5 +823,5 @@ And I would rewrite the Get Programming With Go sentence to say, "A package can 
 **Thoughts** Three days remaining in the challenge!
 
 **Link(s) to Work** 
-* https://github.com/codegold79/get-programming-with-go/lesson17
-* https://github.com/codegold79/get-programming-with-go/lesson18
+* https://github.com/codegold79/get-programming-with-go/tree/master/lesson17
+* https://github.com/codegold79/get-programming-with-go/tree/master/lesson18

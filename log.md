@@ -824,4 +824,12 @@ And I would rewrite the Get Programming With Go sentence to say, "A package can 
 
 **Link(s) to Work** 
 * https://github.com/codegold79/get-programming-with-go/tree/master/lesson17
-* https://github.com/codegold79/get-programming-with-go/tree/master/lesson18
+
+### Day 98: Friday, December 27, 2019
+
+**Today's Progress** Completed lesson 19 reading and exercise, and started first part of lesson 20 capstone project. The book mentioned using a map with keys and values of booleans to make a set. However, @daved had suggested before to use empty interfaces because they take up less memory than boolean. Also, you can tell if the value is empty using ok, so boolean is also unnecessary.
+
+**Thoughts** Two days remaining in the challenge!
+
+**Link(s) to Work** 
+* https://github.com/codegold79/get-programming-with-go/tree/master/lesson19

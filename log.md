@@ -827,9 +827,15 @@ And I would rewrite the Get Programming With Go sentence to say, "A package can 
 
 ### Day 98: Friday, December 27, 2019
 
-**Today's Progress** Completed lesson 19 reading and exercise, and started first part of lesson 20 capstone project. The book mentioned using a map with keys and values of booleans to make a set. However, @daved had suggested before to use empty interfaces because they take up less memory than boolean. Also, you can tell if the value is empty using ok, so boolean is also unnecessary.
+**Today's Progress** Completed lesson 19 reading and exercise, and started first part of lesson 20 capstone project. The book mentioned using a map with keys and values of booleans to make a set. However, @daved had suggested before to use empty structs because they take up less memory than boolean. Also, you can tell if the value is empty using ok, so boolean is also unnecessary.
 
 **Thoughts** Two days remaining in the challenge!
 
 **Link(s) to Work** 
 * https://github.com/codegold79/get-programming-with-go/tree/master/lesson19
+
+### Day 99: Saturday, December 28, 2019
+
+**Today's Progress** Completed first two (of three) parts of L20 capstone project. I've never played Conway's Game of Life, but I'll be writing the programming behind it.
+
+**Thoughts** This capstone is a particularly challenging one compared to the others, given it has so many parts. I'm grateful the book walks one through how to develop the Game of Life. Also, there is only one day left in the challenge. I thought about doing the 100th day on the 31st, but I don't think I'll have enough quiet time, given I have work, dinner, followed by New Year's Eve celebrations. Sunday is also a busy day. So, Monday might be best. We'll see...

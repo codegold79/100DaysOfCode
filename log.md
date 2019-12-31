@@ -839,3 +839,11 @@ And I would rewrite the Get Programming With Go sentence to say, "A package can 
 **Today's Progress** Completed first two (of three) parts of L20 capstone project. I've never played Conway's Game of Life, but I'll be writing the programming behind it.
 
 **Thoughts** This capstone is a particularly challenging one compared to the others, given it has so many parts. I'm grateful the book walks one through how to develop the Game of Life. Also, there is only one day left in the challenge. I thought about doing the 100th day on the 31st, but I don't think I'll have enough quiet time, given I have work, dinner, followed by New Year's Eve celebrations. Sunday is also a busy day. So, Monday might be best. We'll see...
+
+### Day 100: Monday, December 30, 2019
+
+**Today's Progress** Completed lesson 20 capstone exercise, which was the simulation of Conway's Game of Life. After 1000 iterations, squares, diamonds, a line of three, and hexagons survived. The most interesting was the line of three which alternated between a vertical and horizontal line. Another interesting one was one asymmetrical hexagon. Some of these shapes appeared well before the 1000th iteration, but they were destroyed by neighboring shapes. What a fun way to end #100DaysOfCode challenge!
+
+**Thoughts** One challenge down, time to seek another!
+**Link(s) to Work** 
+* https://github.com/codegold79/get-programming-with-go/tree/master/lesson20
